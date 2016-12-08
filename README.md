@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/pietro909/one-source-of-truth-for-angular.svg?branch=youtube)](https://travis-ci.org/pietro909/one-source-of-truth-for-angular)
 # One Source of Truth for Angular 2
 
 The components we build for our web-application often host states. Connecting components often means sharing mutable states: this is difficult to manage and leads to inconsistency.
@@ -7,7 +6,7 @@ What if we have one place for the state's mutation and let messages do the rest?
 
 This sample application will manage a realtime search using the [YouTube API](https://developers.google.com/youtube/v3/), allowing the user to search for a name and to geo-localize the search results.
 
-Play with the live example here: [live example](https://pietro909.github.io/one-source-of-truth-for-angular/).
+Play with the live example here: [live example](https://sitepoint-editors.github.io/one-source-of-truth-for-angular/).
 
 ## Requirements
 
