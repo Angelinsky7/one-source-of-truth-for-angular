@@ -41,7 +41,7 @@ __decorate([
 SearchBox = __decorate([
     core_1.Component({
         selector: 'search-box',
-        template: "\n    <input type=\"text\" class=\"form-control\" placeholder=\"Search\" autofocus>\n    "
+        template: "\n    <input type=\"text\" class=\"form-control\" placeholder=\"Search\" >\n    "
     }),
     __metadata("design:paramtypes", [core_1.ElementRef])
 ], SearchBox);
